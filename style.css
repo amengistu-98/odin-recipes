@@ -1,0 +1,57 @@
+/* style.css */
+
+h1 {
+    color: hotpink;
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+button.linkToRecipe {
+    background-color: orange;
+    color: white;
+}
+
+button {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 25px;
+}
+
+.button-container {
+    text-align: left;
+}
+
+/* following will be for recipe pages */
+
+h2, h3, ul, ol {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul, ol {
+    background-color: rgb(235, 235, 235);
+    border: dotted;
+    border-width: 3px;
+    border-color: hotpink;
+}
+
+h2 {
+    color: darkorange;
+}
+
+h3 {
+    color: blue;
+}
+
+img {
+    height: auto;
+    width: 450px;
+    border-style: solid;
+    border-width: 1.5px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
